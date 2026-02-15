@@ -1,0 +1,53 @@
+patient_id,age,gender,blood_pressure,cholesterol,bmi,smoker,diagnosis,admission_date,age_group
+P1000,55.0,female,120.0,220.0,35.4,yes,Heart Disease,2023-12-27,adult
+P1005,35.0,female,130.0,200.0,35.4,no,Heart Disease,2023-11-08,young
+P1008,45.0,male,140.0,200.0,35.4,no,Diabetes,2023-02-27,adult
+P1009,65.0,male,130.0,220.0,35.4,no,Diabetes,2023-02-13,old
+P1012,47.0,male,160.0,180.0,27.8,yes,Diabetes,2023-06-22,adult
+P1015,55.0,male,140.0,250.0,30.0,no,Diabetes,2023-05-29,adult
+P1017,47.0,female,130.0,220.0,27.8,yes,Diabetes,2023-08-01,adult
+P1020,65.0,male,140.0,220.0,35.4,no,Diabetes,2023-08-17,old
+P1022,55.0,male,120.0,180.0,27.8,no,Diabetes,2023-08-15,adult
+P1023,35.0,female,120.0,250.0,35.4,yes,Diabetes,2023-05-27,young
+P1024,47.0,male,140.0,220.0,22.5,no,Heart Disease,2023-01-20,adult
+P1025,65.0,female,140.0,220.0,35.4,yes,Heart Disease,2023-02-16,old
+P1027,25.0,male,160.0,220.0,35.4,no,Heart Disease,2023-11-01,young
+P1029,45.0,male,130.0,220.0,30.0,yes,Heart Disease,2023-05-23,adult
+P1030,45.0,male,140.0,220.0,35.4,no,Diabetes,2023-01-01,adult
+P1033,55.0,male,140.0,220.0,40.1,yes,Diabetes,2023-05-24,adult
+P1036,47.0,male,160.0,220.0,35.4,yes,Heart Disease,2023-08-12,adult
+P1039,55.0,male,140.0,220.0,35.4,yes,Diabetes,2023-06-05,adult
+P1040,25.0,male,140.0,180.0,40.1,no,Heart Disease,2023-01-08,young
+P1041,45.0,male,140.0,250.0,35.4,no,Heart Disease,2023-05-02,adult
+P1043,45.0,female,120.0,300.0,30.0,yes,Diabetes,2023-06-13,adult
+P1044,65.0,male,150.0,250.0,35.4,no,Diabetes,2023-03-31,old
+P1045,25.0,male,140.0,300.0,40.1,yes,Heart Disease,2023-05-16,young
+P1047,55.0,female,160.0,250.0,35.4,no,Heart Disease,2023-11-12,adult
+P1048,25.0,female,140.0,220.0,27.8,yes,Diabetes,2023-06-27,young
+P1050,47.0,female,150.0,180.0,30.0,no,Heart Disease,2023-08-08,adult
+P1051,35.0,female,140.0,250.0,22.5,no,Diabetes,2023-12-23,young
+P1052,35.0,male,150.0,250.0,30.0,no,Heart Disease,2023-02-10,young
+P1054,35.0,female,130.0,300.0,27.8,yes,Heart Disease,2023-07-11,young
+P1055,65.0,female,140.0,220.0,27.8,no,Heart Disease,2023-05-25,old
+P1056,35.0,male,140.0,300.0,40.1,no,Diabetes,2023-07-20,young
+P1057,55.0,male,150.0,220.0,27.8,yes,Diabetes,2023-07-31,adult
+P1058,55.0,male,150.0,220.0,40.1,no,Diabetes,2023-08-08,adult
+P1059,55.0,female,120.0,250.0,35.4,yes,Heart Disease,2023-08-28,adult
+P1063,47.0,female,140.0,180.0,22.5,yes,Diabetes,2023-03-23,adult
+P1064,25.0,male,150.0,220.0,27.8,no,Diabetes,2023-09-13,young
+P1065,55.0,female,120.0,300.0,27.8,yes,Heart Disease,2023-07-16,adult
+P1067,55.0,female,130.0,250.0,27.8,no,Diabetes,2023-01-10,adult
+P1070,47.0,female,140.0,300.0,22.5,yes,Diabetes,2023-08-30,adult
+P1071,47.0,female,150.0,300.0,40.1,yes,Diabetes,2023-09-08,adult
+P1074,47.0,male,150.0,200.0,40.1,no,Heart Disease,2023-04-29,adult
+P1078,55.0,female,120.0,200.0,30.0,no,Diabetes,2023-08-12,adult
+P1080,35.0,male,150.0,220.0,27.8,yes,Heart Disease,2023-06-26,young
+P1083,47.0,female,140.0,200.0,35.4,yes,Heart Disease,2023-10-09,adult
+P1084,47.0,male,120.0,220.0,22.5,yes,Heart Disease,2023-03-04,adult
+P1087,47.0,male,140.0,200.0,35.4,yes,Heart Disease,2023-11-11,adult
+P1089,65.0,female,150.0,180.0,22.5,yes,Diabetes,2023-06-26,old
+P1090,35.0,male,140.0,180.0,35.4,yes,Diabetes,2023-04-08,young
+P1091,65.0,male,120.0,220.0,35.4,yes,Heart Disease,2023-04-15,old
+P1093,25.0,female,140.0,300.0,35.4,no,Heart Disease,2023-11-07,young
+P1094,55.0,male,120.0,200.0,40.1,no,Heart Disease,2023-01-06,adult
+P1098,25.0,male,140.0,180.0,40.1,yes,Diabetes,2023-12-24,young
